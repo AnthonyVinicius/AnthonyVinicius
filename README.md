@@ -4,7 +4,7 @@
 
 # 👨🏽‍💻 Sobre mim
 
-Meu nome é Anthony Vinicius, tenho 19 anos. Estou atualmente cursando Análise e Desenvolvimento de Sistemas pela IFPE Palmares.
+Meu nome é Anthony Vinicius, tenho 19 anos, residente em Palmares PE. Estou atualmente cursando Análise e Desenvolvimento de Sistemas pela IFPE Palmares(2/6).
 
 ### Front-end
 
