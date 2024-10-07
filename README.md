@@ -29,12 +29,6 @@ Meu nome é Anthony Vinicius, tenho 19 anos, residente em Palmares PE. Estou atu
     <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <div>
 
-### FrameWorks
-
-<div style="display: inline block">
-    <img align="center" alt="bootsrap" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FBootstrap-563D7C%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite">
-<div>
-    
 ## 📉 GitHub Stats
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnthonyVinicius&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
