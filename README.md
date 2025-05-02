@@ -4,7 +4,7 @@
 
 # 👨🏽‍💻 Sobre mim
 
-Meu nome é Anthony Vinicius, tenho 21 anos, residente em Palmares PE. Estou atualmente cursando Análise e Desenvolvimento de Sistemas pela IFPE Palmares(4/6).
+Meu nome é Anthony Vinicius, tenho 21 anos, residente em Palmares PE. Estou atualmente cursando Análise e Desenvolvimento de Sistemas pela IFPE Palmares(5/6).
 
 ### Front-end
 
@@ -40,6 +40,5 @@ Meu nome é Anthony Vinicius, tenho 21 anos, residente em Palmares PE. Estou atu
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/anthony-vinicius-436b85220/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnthonyVinicius)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/anthonyvini_/)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2e&height=120&section=footer"/>
