@@ -1,10 +1,27 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2e&height=120&section=header"/>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=500&color=F7F7F7&width=435&lines=%F0%9F%91%8B%22Hello+World;Seja+Bem-vindo+ao+meu+portif%C3%B3lio)](https://git.io/typing-svg)
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header&text=Anthony%20Vinicius&fontColor=#fff&fontAlignY=35"/>
+  <h2>Cursando Análise e Desenvolvimento de Sistemas (5/6) pelo Instituto Federal de Pernambuco (IFPE)</h2>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-vinicius-436b85220/)
+  
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnthonyVinicius&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyVinicius&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+  
 # 👨🏽‍💻 Sobre mim
 
-Meu nome é Anthony Vinicius, residente em Palmares PE. Estou atualmente cursando Análise e Desenvolvimento de Sistemas pela IFPE Palmares(5/6).
+📌 Sobre mim  
+  
+Desde muito cedo, desenvolvi um interesse profundo pela tecnologia, o que me levou a explorar uma ampla gama de áreas, como programação, desenvolvimento de jogos, edição de vídeos, áudios e imagens, e gravação.  
+  
+Acredito que a tecnologia é um campo dinâmico e em constante evolução, e minha curiosidade e vontade de aprender crescem à medida que ela avança.  
+  
+Estou sempre em busca de novos desafios e oportunidades para expandir minhas competências e contribuir para projetos que envolvam tecnologia, desenvolvimento e criatividade.  
+  
+💻 Estudante de Análise e Desenvolvimento de Sistemas no IFPE – Campus Palmares, com formação técnica em Manutenção e Suporte em Informática.
+
 
 ### Front-end
 
@@ -45,7 +62,7 @@ Meu nome é Anthony Vinicius, residente em Palmares PE. Estou atualmente cursand
 
 ## 📉 GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnthonyVinicius&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 <div align="center">
 
@@ -53,6 +70,6 @@ Meu nome é Anthony Vinicius, residente em Palmares PE. Estou atualmente cursand
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/anthony-vinicius-436b85220/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2e&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&animation=twinkling&section=footer"/>
