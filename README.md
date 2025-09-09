@@ -1,7 +1,7 @@
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header&text=Anthony%20Vinicius&fontColor=#fff&fontAlignY=35"/>
-  <h2>Cursando Análise e Desenvolvimento de Sistemas (5/6) pelo Instituto Federal de Pernambuco (IFPE)</h2>
+  <h2>Cursando Análise e Desenvolvimento de Sistemas (6/6) pelo Instituto Federal de Pernambuco (IFPE)</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-vinicius-436b85220/)
   
